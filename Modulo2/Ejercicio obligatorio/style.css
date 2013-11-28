@@ -1,0 +1,77 @@
+/* Elementos */
+html {
+	background-color: #E9E9E9;
+}
+
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #000000;
+	margin:0px;
+	padding-bottom:5px;
+}
+
+div{
+	padding:5px;
+	margin-bottom:5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+div h2, h3, h4{
+	text-align: center;
+	margin-top:7px;
+}
+
+p{	
+	margin:7px;
+}
+
+/* Clases */
+.titleBox {
+	background-color: 	#FFA584;
+	text-align: center;
+}
+
+.firstLevelSectionBox {
+	background-color: #E1D4C2;
+}
+
+.secondLevelSectionBox {
+	background-color: #FAEDDB;
+}
+
+.thirdLevelSectionBox {
+	background-color: #FDF7EF;
+}
+
+.product {
+	font-family: Avant Garde, serif;
+	color: #256F46;
+	font-weight:bold;
+	font-size: 1.2em;
+}
+
+span.blue {
+	color: blue;
+	font-weight:bold;
+}
+
+span.red {
+	color: red;
+	font-weight:bold;
+}
+
+span.white {
+	color: black;
+	font-weight:bold;
+	background-color: white;
+}
+
+span.black {
+	color: white;
+	font-weight:bold;
+	background-color: black;
+}
